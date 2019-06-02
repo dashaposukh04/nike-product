@@ -1,0 +1,5 @@
+*.psd
+*.doc
+*.docs
+*.txt
+node_modules
